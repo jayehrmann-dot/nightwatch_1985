@@ -5,6 +5,10 @@ the only thing that can stop them: an experimental interceptor that works just
 as well in the dirt as it does in orbit. Atari 2600 looks, Defender-style
 play, running entirely inside your terminal.
 
+<p align="center">
+<img width="560" height="418" alt="nightwatch_1985" src="https://github.com/user-attachments/assets/134a4908-497b-48b1-ae65-59ae5908207a" />
+</p>
+
 ```bash
 ./play.sh
 ```
